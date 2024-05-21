@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: s_gitHub
-      path: neha-mishraa/testelement
+      path: agrasth/testelement
       branches:
         include: master
 pipelines:
