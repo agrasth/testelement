@@ -2,7 +2,7 @@ resources:
   - name: myRepoResource
     type: GitRepo
     configuration:
-      gitProvider: github_neha
+      gitProvider: github_agrasth
       path: agrasth/testelement
       branches:
         include: master
